@@ -1,0 +1,33 @@
+.header{
+	padding: 1px;
+	text-align: center;
+	font-size: 12;
+	color :purple;
+}
+.footer{
+	padding: 5px;
+	text-align: center;
+	font-size: 17px;
+}
+.body{
+ background: url('new1.png');
+ color: purple;
+}
+.table{
+	font-size: 20px;
+}
+.tulis{
+	text-align: left;
+	font-size: 18px;
+	color: black;
+}
+.form{
+	text-align: left;
+}
+.label{
+	font-size: 15px;
+}
+.question{
+	font-size: 15px;
+	color: black;
+}
